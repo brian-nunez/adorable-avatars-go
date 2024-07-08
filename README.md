@@ -72,3 +72,8 @@ The response will be a JSON object with all the available assets.
 
 This project is a work in progress. More features will be added soon.
 
+## Example Output
+
+Below is my personal avatar that I have used for years.
+
+![brian-avatar](https://github.com/brian-nunez/adorable-avatars-go/assets/37200096/557a4ba7-546b-41b3-aa4e-9c9a3b6f20e1)
