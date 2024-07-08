@@ -1,6 +1,6 @@
 # Adorable Avatars
 
-Adorable Avatars is a set of assets when combined generate a random avatar. It is designed to be used by developers who need a quick image placeholder that is unique and adorable. The original idea and code was written in Node.js and is not longer maintained. Check out the original project [here](https://github.com/itsthatguy/avatars-api-middleware).
+Adorable Avatars is a set of assets when combined generate a random avatar. It is designed to be used by developers who need a quick image placeholder that is unique and adorable. The original idea and code was written in Node.js and is no longer maintained. Check out the original project [here](https://github.com/itsthatguy/avatars-api-middleware).
 
 This project is an API that exposes endpoints to generate avatars.
 
@@ -20,7 +20,7 @@ The server will be running on port 8080.
 GET /random
 ```
 
-This endpoint will return a random avatar.
+This endpoint will return a random avatar image (PNG format) with a 400x400 size.
 
 ### Get a list of available `eyes`, `noses`, and `mouths`
 
